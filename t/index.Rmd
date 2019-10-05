@@ -1,6 +1,6 @@
 --- 
-title: "R MarkdownでWebサイト生成しよう"
-author: "Kazutan"
+title: "RMarkdown+Bookdownのテンプレート"
+author: "pyonshimak"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -9,12 +9,31 @@ documentclass: book
 #description: "This is a description. Please wrote a abstract this contents. "
 ---
 
-# はじめに {-}
+# 1. Intorduction {-}
 
-これは,R MarkdownでWebサイトを作成する手順について解説するものです。使用するファイル類は以下のGitHubリポジトリに設置しています:
+これは,R MarkdownでWebサイトを作成する手順について解説するものです。以下のサイトを参考につくりました。
 
-https://github.com/kazutan/RmdSite_tuto
+[R MarkdownでWebサイト生成しよう][1]
+[1]https://kazutan.github.io/RmdSite_tuto/
 
-## このリポジトリの使い方 {-}
+## 1.1. 
+test
 
-「00_sample」から「04_sample」までのディレクトリ内に，それぞれ`**_sample.Rproj`というプロジェクトファイルがあります。説明資料で指示があったら，そのフォルダのプロジェクトファイルを開いてください。
+### 1.1.1 さらに小さいグループ
+t
+
+### 1.1.1.1 さらにさらに小さいグループ
+t
+
+### 1.1.1.2 さらにさらに小さいグループ
+t
+
+### 1.1.2 さらに小さいグループ
+t
+
+## 1.2. 
+test
+
+## 1.3. 
+
+test
