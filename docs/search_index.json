@@ -1,5 +1,5 @@
 [
-["index.html", "RMarkdown+Bookdownのテンプレート Chapter 1 Intorduction 1.1 RMarkdown 1.2 Bookdown", " RMarkdown+Bookdownのテンプレート pyonshimak 2019-10-06 Chapter 1 Intorduction これは,?について解説するものです。以下のサイトを参考につくりました。 R MarkdownでWebサイト生成しよう ちなみに元々は川口先生のノートが良さそうで，真似したくなったのがきっかけ。 1.1 RMarkdown RMarkdown特有の機能が色々あるらしい。R Markdown入門を参考にしました。 1.1.1 Rチャンク Rチャンクをマスターできると良いらしい？ チャンクの記法 echo=FALSE でチャンクコードを表示しない eval=FALSE でコードを評価しない include=FALSE でチャンクを表示しない ## [1] 3 1.1.1.1 さらに小さいグループ も作れちゃう。これが最小の階層。 1.2 Bookdown test "],
+["index.html", "RMarkdown+Bookdownのテンプレート Chapter 1 Intorduction 1.1 RMarkdown 1.2 Bookdown", " RMarkdown+Bookdownのテンプレート pyonshimak 2019-10-06 Chapter 1 Intorduction これは,?について解説するものです。以下のサイトを参考につくりました。 R MarkdownでWebサイト生成しよう ちなみに元々は川口先生のノートが良さそうで，真似したくなったのがきっかけ。 1.1 RMarkdown RMarkdown特有の機能が色々あるらしい。R Markdown入門を参考にしました。 1.1.1 Rチャンク Rチャンクをマスターできると良いらしい？ チャンクの記法 echo=FALSE でチャンクコードを表示しない eval=FALSE でコードを評価しない include=FALSE でチャンクを表示しない print(1+2) ## [1] 3 1.1.1.1 さらに小さいグループ も作れちゃう。これが最小の階層。 1.2 Bookdown test "],
 ["02.html", "Chapter 2 Test 2.1 タイトル 2.2 タイトル", " Chapter 2 Test 2.1 タイトル test 2.2 タイトル test "],
 ["03.html", "Chapter 3 Test 3.1 タイトル 3.2 タイトル", " Chapter 3 Test 3.1 タイトル test 3.2 タイトル test "]
 ]
