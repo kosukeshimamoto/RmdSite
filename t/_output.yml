@@ -10,7 +10,7 @@ bookdown::gitbook:
     toc:
 # サイドバーの一番上の要素になります
       before: |
-        <li><a href="./">R MarkdownでWebサイト作成しよう</a></li>
+        <li><a href="./">RMarkdown+Bookdownのテンプレート</a></li>
 # サイドバーの一番下の要素になります
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
