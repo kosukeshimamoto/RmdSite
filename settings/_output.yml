@@ -13,7 +13,7 @@ bookdown::gitbook:
         <li><a href="./">RMarkdown+Bookdownのテンプレート</a></li>
 # サイドバーの一番下の要素になります
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/pyonshimak/RmdSite" target="blank">Published by pyonshimak</a></li>
 # githubに設置するリポジトリをここに記述してください
 #    edit:
 #      link: https://github.com/rstudio/bookdown-demo/edit/master/%s

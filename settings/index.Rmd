@@ -33,7 +33,10 @@ documentclass: book
 ```{r test}
 print(1+2)
 ```
+###リンク
+- 本家の[bookdownレポジトリ][4]
 
+[4]:https://github.com/rstudio/bookdown
 #### さらに小さいグループ
 も作れちゃう。これが最小の階層。
 
